@@ -1,0 +1,6 @@
+[project]
+name = "email-popup-detector"
+version = "1.0.0"
+description = "Detects Klaviyo email popups on websites"
+requires-python = ">=3.12"
+dependencies = []
